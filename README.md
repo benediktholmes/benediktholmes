@@ -1,3 +1,14 @@
+<div align="center">
+  <img src=https://komarev.com/ghpvc/?username=benediktholmes>
+</div>
+
+<div id="badges">
+  <a href="https://www.codewars.com/users/bholmes">
+    <img src=https://www.codewars.com/users/bholmes/badges/micro>
+  </a>
+  <!-- more -->
+</div>
+
 ### Hi there 👋
 
 <!--
